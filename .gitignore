@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 .venv
+=======
+data/wine_sample.csv
+>>>>>>> ab13b6f (feat: Wine Prediction Model)
